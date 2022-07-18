@@ -1,0 +1,19 @@
+{
+    "ecr_repo": "sagemaker-scikit_bring_your_own",
+    "build_codecommit_repo": "build-scikit_bring_your_own",
+    "build_codecommit_branch": "master",
+    "build_codebuild_project": "build-scikit_bring_your_own",
+    "build_codepipeline_name": "build-scikit_bring_your_own",
+    "build_notifications_email": "",
+    "train_codecommit_repo": "train-scikit_bring_your_own",
+    "train_codecommit_branch": "master",
+    "train_codebuild_project": "train-scikit_bring_your_own",
+    "train_codepipeline_name": "train-scikit_bring_your_own",
+    "train_notifications_email": "",
+    "deploy_codecommit_repo": "deploy-scikit_bring_your_own",
+    "deploy_codecommit_branch": "master",
+    "deploy_codebuild_project": "deploy-scikit_bring_your_own",
+    "deploy_codepipeline_name": "deploy-scikit_bring_your_own",
+    "deploy_notifications_email": "",
+    "deploy_approval_email": "your@email.com"
+}
