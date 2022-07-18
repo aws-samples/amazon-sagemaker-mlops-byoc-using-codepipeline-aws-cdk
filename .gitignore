@@ -12,3 +12,4 @@ cdk.out
 
 tmp/
 .DS_Store
+package-lock.json
